@@ -1,0 +1,48 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+/* tbody {
+    background-color:#9ec285;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding: 5px 0;
+} */
+tr {
+    margin-left: 5px;
+}
+tbody {
+    color: orange;
+    font-size: 10px;
+}
+#skills {
+    width: 200px;
+}
+.rbtn btn-xs btn-dange {
+    background-color: salmon;
+    width: 20px;
+}
+#add {
+    padding: 1vh 2vh;
+    font-family: 'Ubuntu', sans-serif;
+    color: #9ec285;
+    border: solid #9ec285 2px;
+    font-size: 2.5vh;
+    color: #9ec285;
+    background-color: white;
+}
+button:hover {
+    background-color: #9ec285;
+    color: white;
+    opacity: 50%;
+}
+#myInput {
+    border: solid #9ec285 2px;
+    padding: 2vh 5vh;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+
+
